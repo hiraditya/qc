@@ -12,4 +12,13 @@
 [Quantum Computing for Programmers By Robert Hundt](https://www.amazon.com/dp/1009098179)
 
 ## Universities working on QC
-https://www.reddit.com/r/QuantumComputing/comments/1h2gqq3/which_universities_have_professors_working_on/
+Princeton
+- UCSB
+- https://www.reddit.com/r/QuantumComputing/comments/1h2gqq3/which_universities_have_professors_working_on/
+
+## Professors working on QC
+- 
+
+## Labs working on QC
+- SLAC
+- LBNL
