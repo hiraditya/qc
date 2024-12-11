@@ -9,8 +9,7 @@
 [StackOverflow](https://quantumcomputing.stackexchange.com/)
 [Reddit](https://www.reddit.com/r/QuantumComputing)
 
-## Books
-[Quantum Computing for Programmers By Robert Hundt](https://www.amazon.com/dp/1009098179)
+## [Books](./Book.md)
 
 ## Universities working on QC
 - [Princeton](https://quantum.princeton.edu/)
@@ -24,31 +23,7 @@
 - SLAC
 - LBNL
 
-## QC companies
-- [Alice & Bob](https://alice-bob.com)
-- [Amazon](https://aws.amazon.com/products/quantum)
-- [Arqit Quantum Inc.](https://arqit.uk/)
-- [Classiq Technologies](https://www.classiq.io) 
-- [D-Wave Systems](www.dwavesys.com)
-- [Eviden](https://eviden.com/solutions/advanced-computing/quantum-computing)
-- [FormFactor Inc.](https://www.formfactor.com/industries/computing-data-center-quantum)
-- [Google](https://quantumai.google/)
-- [Honeywell International Inc.](https://www.honeywell.com/us/en/company/quantum)
-- [Horizon Computing](https://www.horizonquantum.com)
-- [IBM](https://www.ibm.com/quantum)
-- [Infleqtion](https://www.infleqtion.com)
-- [Intel](https://www.intel.com/content/www/us/en/research/quantum-computing.html)
-- [IonQ](https://ionq.com)
-- [IQM](https://www.meetiqm.com)
-- [Microsoft](https://azure.microsoft.com/en-us/solutions/quantum-computing) 
-- [Nvidia](nvidia.com)
-- [Oxford Quantum Circuits](https://oqc.tech)
-- [Pasqal](https://www.pasqal.com) 
-- [Q-CTRL](https://q-ctrl.com)
-- [QC Ware](https://www.qcware.com)
-- [QuEra Computing](https://www.quera.com)
-- [Quantum Brilliance](https://quantumbrilliance.com)
-- [Quantum Computing Inc.](www.quantumcomputinginc.com)
+## [QC companies](./Companies.md)
 - [Quantinuum](https://www.quantinuum.com)
 - [Rigetti](www.rigetti.com)
 - [Riverlane](https://www.riverlane.com) 
