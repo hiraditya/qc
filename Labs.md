@@ -8,4 +8,4 @@
 - [Quantum Systems Accelerator, led by Lawrence Berkeley National Laboratory](https://quantumsystemsaccelerator.org)
 - [SLAC National Accelerator Laboratory](https://qis.slac.stanford.edu)
 - [Sandia’s Quantum Information Program](https://www.sandia.gov/quantum/quantum-computing)
-- [Superconducting Quantum Materials and Systems Center, led by Fermi National Accelerator Laboratory](https://sqms.fnal.gov)
+- [Fermi National Accelerator Laboratory](https://quantum.fnal.gov)
