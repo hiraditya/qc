@@ -27,6 +27,7 @@
 ## QC companies
 - [Alice & Bob](https://alice-bob.com)
 - [Amazon](https://aws.amazon.com/products/quantum)
+- [Arqit Quantum Inc.](https://arqit.uk/)
 - [Classiq Technologies](https://www.classiq.io) 
 - [D-Wave Systems](www.dwavesys.com)
 - [Eviden](https://eviden.com/solutions/advanced-computing/quantum-computing)
