@@ -24,8 +24,3 @@
 - LBNL
 
 ## [QC companies](./Companies.md)
-- [Quantinuum](https://www.quantinuum.com)
-- [Rigetti](www.rigetti.com)
-- [Riverlane](https://www.riverlane.com) 
-- [Xanadu](https://www.xanadu.ai)
-
