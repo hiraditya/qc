@@ -38,3 +38,4 @@
 - https://www.xanadu.ai
 - https://eviden.com/solutions/advanced-computing/quantum-computing
 - https://www.qcware.com
+- https://www.infleqtion.com
