@@ -39,3 +39,14 @@
 - https://eviden.com/solutions/advanced-computing/quantum-computing
 - https://www.qcware.com
 - https://www.infleqtion.com
+- [Honeywell International Inc.](https://www.honeywell.com/us/en/company/quantum)
+- [FormFactor Inc.](https://www.formfactor.com/industries/computing-data-center-quantum)
+- [Nvidia](nvidia.com)
+- [Alice & Bob](https://alice-bob.com)
+- [Horizon Computing](https://www.horizonquantum.com)
+- [Classiq Technologies](https://www.classiq.io)
+- [Quantum Brilliance](https://quantumbrilliance.com)
+- [Q-CTRL](https://q-ctrl.com)
+- [Oxford Quantum Circuits](https://oqc.tech)
+- 
+
