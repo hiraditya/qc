@@ -48,5 +48,7 @@
 - [Quantum Brilliance](https://quantumbrilliance.com)
 - [Q-CTRL](https://q-ctrl.com)
 - [Oxford Quantum Circuits](https://oqc.tech)
-- 
+- [QuEra Computing](https://www.quera.com)
+- [IQM](https://www.meetiqm.com)
+- [Pasqal](https://www.pasqal.com)
 
