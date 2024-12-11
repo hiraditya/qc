@@ -23,3 +23,18 @@
 ## Labs working on QC
 - SLAC
 - LBNL
+
+## QC companies
+- [google.com](https://quantumai.google/)
+- [IBM](https://www.ibm.com/quantum)
+- [Amazon](https://aws.amazon.com/products/quantum)
+- www.rigetti.com
+- https://ionq.com
+- www.dwavesys.com
+- www.quantumcomputinginc.com
+- [Microsoft](https://azure.microsoft.com/en-us/solutions/quantum-computing)
+- [Intel](https://www.intel.com/content/www/us/en/research/quantum-computing.html)
+- https://www.quantinuum.com
+- https://www.xanadu.ai
+- https://eviden.com/solutions/advanced-computing/quantum-computing
+- https://www.qcware.com
