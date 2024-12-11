@@ -19,8 +19,8 @@
 ## Professors working on QC
 - 
 
-## Labs working on QC
-- SLAC
-- LBNL
+## [Conferences](Conference.md]
+
+## [Labs working on QC](Labs.md]
 
 ## [QC companies](./Companies.md)
