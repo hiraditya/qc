@@ -22,3 +22,8 @@
 - [QuEra Computing](https://www.quera.com)
 - [Quantum Brilliance](https://quantumbrilliance.com)
 - [Quantum Computing Inc.](www.quantumcomputinginc.com)
+- [Quantinuum](https://www.quantinuum.com)
+- [Rigetti](www.rigetti.com)
+- [Riverlane](https://www.riverlane.com) 
+- [Xanadu](https://www.xanadu.ai)
+
