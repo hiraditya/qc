@@ -19,7 +19,7 @@
 
 ## [Professors working on QC](./Professors.md)
 
-## [Conferences](./Conference.md)
+## [Conferences](./Conferences.md)
 
 ## [Labs working on QC](./Labs.md)
 
