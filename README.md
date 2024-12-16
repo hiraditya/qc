@@ -4,6 +4,8 @@
 
 ## Lectures
 - [PHYS771 Quantum Computing Since Democritus](https://www.scottaaronson.com/democritus/)
+- [Coursera](https://www.coursera.org/learn/quantum-error-correction)
+- [MIT](https://learn-xpro.mit.edu/quantum-computing)
 
 ## Where to ask questions
 - [StackOverflow QuantumComputing](https://quantumcomputing.stackexchange.com)
